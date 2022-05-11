@@ -92,5 +92,4 @@ const styles = StyleSheet.create({
     picker: {
         width: 130,
     }
-
 })
